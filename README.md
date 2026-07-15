@@ -1,11 +1,18 @@
-This work was supported by the National Institutes of Health R01-EB030582
+## Acknowledgments
 
+This work was supported by the National Institutes of Health under Grant **R01-EB030582**.
+
+## Reference
+
+```bibtex
 @article{hatamizadeh2021unetr,
-  title={Unetr: Transformers for 3d medical image segmentation},
-  author={Hatamizadeh, Ali and Yang, Dong and Roth, Holger and Xu, Daguang},
-  journal={arXiv preprint arXiv:2103.10504},
-  year={2021}
+  title   = {UNETR: Transformers for 3D Medical Image Segmentation},
+  author  = {Hatamizadeh, Ali and Yang, Dong and Roth, Holger and Xu, Daguang},
+  journal = {arXiv preprint arXiv:2103.10504},
+  year    = {2021}
 }
+```
+
 
 
 
